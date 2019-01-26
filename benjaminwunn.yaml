@@ -1,0 +1,11 @@
+email: benjamin.wunn@icloud.com
+fullname: 'Benjamin Wunn'
+title: Administrator
+state: enabled
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$9ZsHezFPJPNA0G8xmmm0Qu5FaZWQnOHPFLef6exASoqueRniJ9yue
